@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color:gray;
+    filter: alpha(opacity=10);
+    border-radius: 10px;
+    min-height: 200px;
+    min-width: 100px;
+}
+
+button{
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+#toggle{
+    background-color: transparent;
+    border: none;
+}
